@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # medical_app
 
 A new Flutter project.
