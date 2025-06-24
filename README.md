@@ -1,6 +1,9 @@
 # medical_app
 A beautifully crafted mobile UI built with Flutter, showcasing modern design principles, responsive layouts, and smooth animations. This project focuses on reusable components, clean architecture, and pixel-perfect implementation of intuitive interfaces. Perfect for exploring UI/UX ideas or using as a boilerplate for future Flutter apps.
 
+#App UI
+![App_UI](https://github.com/Tee-Kay404/Medical_App_UI/blob/b2e42f4b13b058940b8716cc6fafdd275ac569cf/medical.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
